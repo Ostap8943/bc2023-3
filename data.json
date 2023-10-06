@@ -8,10 +8,10 @@
     "parent": null,
     "freq": "Y",
     "mcrd081": "03",
-    "ku": "21",
+    "ku": "13",
     "mcrk110": "NULL",
     "tzep": "DTPY_",
-    "value": -10.6
+    "value": 5.1
   },
   {
     "dt": "20220101",
@@ -22,10 +22,10 @@
     "parent": null,
     "freq": "Y",
     "mcrd081": "03",
-    "ku": "1",
+    "ku": "13",
     "mcrk110": "NULL",
     "tzep": "DTPY_",
-    "value": -10.1
+    "value": -10.6
   },
   {
     "dt": "20220101",
